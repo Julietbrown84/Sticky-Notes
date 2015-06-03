@@ -7,7 +7,6 @@ html, body {
     position: relative;
     text-align: center;
     padding: 20px;
-    font-color: pink;
     font-family: Arial;
     height: 100%;
     position: relative;
@@ -23,6 +22,7 @@ html, body {
     padding: 20px;
     z-index: 1000;
 }
+
 textarea {
     background: transparent;
     background-color: white;
