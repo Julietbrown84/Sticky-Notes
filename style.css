@@ -7,6 +7,7 @@ html, body {
     position: relative;
     text-align: center;
     padding: 20px;
+    font-color: pink;
     font-family: Arial;
     height: 100%;
     position: relative;
@@ -15,7 +16,7 @@ html, body {
 
 .newbox {
     position: absolute;
-    background-color: yellow;
+    background-color: white;
     height: 200px;
     width: 200px;
     box-shadow: 10px 10px 10px #888;
@@ -24,7 +25,7 @@ html, body {
 }
 textarea {
     background: transparent;
-    background-color: yellow;
+    background-color: white;
     width: 200px;
     height: 150px;
     border: 0;
